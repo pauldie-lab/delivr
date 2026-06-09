@@ -22,7 +22,7 @@ const PLANS = [
   {
     name: "Starter",
     price: 29,
-    priceId: "price_starter_monthly", // Replace with your Stripe Price ID
+    priceId: "price_1TgEC2J79YOpGhE5pbOQv6W0", // Replace with your Stripe Price ID
     orders: "Up to 100 orders/mo",
     drivers: "2 drivers",
     features: ["Order dashboard", "SMS notifications", "Basic analytics"],
@@ -31,7 +31,7 @@ const PLANS = [
   {
     name: "Growth",
     price: 79,
-    priceId: "price_growth_monthly", // Replace with your Stripe Price ID
+    priceId: "price_1TgECYJ79YOpGhE5VtLaxG9t", // Replace with your Stripe Price ID
     orders: "Up to 500 orders/mo",
     drivers: "10 drivers",
     features: ["Everything in Starter", "Real-time tracking", "Priority support", "Custom branding"],
@@ -40,7 +40,7 @@ const PLANS = [
   {
     name: "Pro",
     price: 149,
-    priceId: "price_pro_monthly", // Replace with your Stripe Price ID
+    priceId: "price_1TgECqJ79YOpGhE5BkAXyBTd", // Replace with your Stripe Price ID
     orders: "Unlimited orders",
     drivers: "Unlimited drivers",
     features: ["Everything in Growth", "API access", "Advanced analytics", "Dedicated account manager"],
